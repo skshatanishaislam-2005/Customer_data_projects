@@ -87,3 +87,42 @@ Some observations from the analysis include:
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+
+
+2. Open the project folder
+cd Customer_data_projects
+
+3. Install the required libraries
+pip install pandas matplotlib openpyxl
+
+4. Run the data cleaning script
+python3 clean_customer_data.py
+
+5. Run the analysis
+python3 analyze_customer_data.py
+
+6. Generate visualizations
+python3 visualize_customer_data.py
+📚 What I Learned
+
+Through this project, I practiced:
+
+Data cleaning with Pandas
+
+Working with Excel datasets
+
+Handling missing values
+
+Detecting duplicate records
+Data aggregation and grouping
+Exploratory data analysis
+Creating visualizations with Matplotlib
+Extracting insights from data
+Organizing a data analysis project
+👩‍💻 Author
+
+Tanisha Islam
+
+UI/UX Designer | Data Science Student | Python Learner
+
+Currently exploring Data Science, Python, Data Analytics, AI & Product Design.
